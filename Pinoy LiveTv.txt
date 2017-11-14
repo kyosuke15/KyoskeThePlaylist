@@ -1,0 +1,21 @@
+#EXTINF:-1 tvg-ID="CNNPhilippines.ph" tvg-name="CNN Philippines" tvg-logo="http://faizuliptv.myonlineportal.org/logo/cnn_international_global.png" group-title="PHILIPPINES",CNN Philippines
+http://faizuliptv.myonlineportal.org:8080/live/samir/samir/1292.m3u8
+#EXTINF:-1 tvg-ID="GMANews.ph" tvg-name="Ph: GMA News" tvg-logo="" group-title="PHILIPPINES",Ph: GMA News
+http://faizuliptv.myonlineportal.org:8080/live/samir/samir/1289.m3u8
+#EXTINF:-1 tvg-ID="GMAPinoy.ph" tvg-name="Ph: GMA Pinoy" tvg-logo="" group-title="PHILIPPINES",Ph: GMA Pinoy
+http://faizuliptv.myonlineportal.org:8080/live/samir/samir/1296.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Ph: K CHANNEL" tvg-logo="" group-title="PHILIPPINES",Ph: K CHANNEL
+http://faizuliptv.myonlineportal.org:8080/live/samir/samir/1290.m3u8
+#EXTINF:-1 tvg-ID="LifestyleNetwork.ph" tvg-name="Ph: Lifestyle" tvg-logo="" group-title="PHILIPPINES",Ph: Lifestyle
+http://faizuliptv.myonlineportal.org:8080/live/samir/samir/1293.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Ph: NET 25" tvg-logo="" group-title="PHILIPPINES",Ph: NET 25
+http://faizuliptv.myonlineportal.org:8080/live/samir/samir/1294.m3u8
+#EXTINF:-1 tvg-ID="GMALife.ph" tvg-name="Ph: GMA Life" tvg-logo="" group-title="PHILIPPINES",Ph: GMA Life
+http://faizuliptv.myonlineportal.org:8080/live/samir/samir/1291.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Ph: Old Path TV" tvg-logo="" group-title="PHILIPPINES",Ph: Old Path TV
+http://faizuliptv.myonlineportal.org:8080/live/samir/samir/1298.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Ph: Radyo 5" tvg-logo="" group-title="PHILIPPINES",Ph: Radyo 5
+http://faizuliptv.myonlineportal.org:8080/live/samir/samir/1297.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Ph: TFC" tvg-logo="" group-title="PHILIPPINES",Ph: TFC
+http://faizuliptv.myonlineportal.org:8080/live/samir/samir/1295.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Ph: inc tv" tvg-logo="" group-title="PHILIPPINES",Ph: inc tv
